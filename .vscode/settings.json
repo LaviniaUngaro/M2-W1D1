@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "M2-W1D1.sln"
+    "dotnet.defaultSolution": "M2-W1D1.slnx"
 }
